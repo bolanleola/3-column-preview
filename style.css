@@ -1,12 +1,3 @@
-/*.container {
-    width:600px;
-    height:190px;
-    background-color:green;
-    padding-top:20px;
-    padding-left:15px;
-    padding-right:15px;
-}*/
-
 * {
   box-sizing: border-box;
 }
@@ -67,7 +58,7 @@
       margin-bottom: 40px;
       font-family: 'Lexend Deca', sans-serif;
       font-weight: 400;
-      font-size: 15px;
+      font-size: 1.2em;
       line-height: 1.6;
   }
 
@@ -79,7 +70,7 @@
       padding: 15px;
       font-family: 'Lexend Deca', sans-serif;
       font-weight: 400;
-      font-size: 15px;
+      font-size: 1.2em;
       border-radius: 25px;
   }
 
