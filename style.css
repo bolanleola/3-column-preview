@@ -126,7 +126,7 @@ select {
       margin-bottom: 40px;
       font-family: 'Lexend Deca', sans-serif;
       font-weight: 400;
-      font-size: 1.2em;
+      font-size: 1em;
       line-height: 1.6;
   }
 
@@ -138,8 +138,9 @@ select {
       padding: 15px;
       font-family: 'Lexend Deca', sans-serif;
       font-weight: 400;
-      font-size: 1.2em;
+      font-size: 1em;
       border-radius: 25px;
+      border-style: none;
   }
 
  
