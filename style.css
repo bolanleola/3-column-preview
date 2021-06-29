@@ -85,10 +85,6 @@ select {
   }
  
 
-  .container::after {
-    content: "";
-    clear: both;
-    display: table;}
 
   body{
     background-color: hsl(0, 0%, 95%);
@@ -100,14 +96,14 @@ select {
         /*height: 400px;
         */
         border-radius: 15px 0px 0px 15px;
-        box-sizing: border-box;
+        
   }
 
   .suv{
       background-color: hsl(184, 100%, 22%);
       padding: 40px;
      /* height: 400px;*/
-      box-sizing: border-box;
+      
   }
 
   .luxury{
@@ -115,7 +111,7 @@ select {
       padding: 40px;
      /* height: 400px;*/
       border-radius: 0px 15px 15px 0px;
-      box-sizing: border-box;
+      
   }
 
   h1{
